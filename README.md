@@ -6,6 +6,8 @@ Reference code with Korean comments for better understanding
   * Python 입문
 * Jiwon Jung
   * HTML
+* JongHyeok Baek
+  * C++
 
 # List of content
 1. C++
