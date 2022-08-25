@@ -6,7 +6,7 @@ Reference code with Korean comments for better understanding
 # Author
 * Sunwu Choi [최선우]
   * Python 입문
-
+  * Python 예제
 * Jiwon Jung [정지원]
   * HTML
 
