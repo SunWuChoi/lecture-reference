@@ -12,8 +12,8 @@ Reference code with Korean comments for better understanding
 
 # List of content 
 + Python
- + Python 기초
- + Python 입문
+  + Python 기초
+  + Python 입문
 + Java
  + Java 기초
 + C++
