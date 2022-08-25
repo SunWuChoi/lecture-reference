@@ -1,18 +1,20 @@
 # lecture-reference
 Reference code with Korean comments for better understanding
+다양한 프로그래밍 언어의 교육을 위한 프로그램 및 해설 모음
 
 # Author
-* Sunwu Choi
+* Sunwu Choi [최선우]
   * Python 입문
-* Jiwon Jung
+* Jiwon Jung [정지원]
   * HTML
-* JongHyeok Baek
+* JongHyeok Baek [백종혁]
   * C++
 
-# List of content
-1. C++
-2. Java 기초
-3. etc...
+# List of content 
++ Python 기초
++ C++
++ Java 기초
++ etc...
 
 # Update History
 2022-08-25 Created repository
