@@ -2,8 +2,9 @@
 Reference code with Korean comments for better understanding
 
 # Author
-Sunwu Choi
-etc...
+  Sunwu Choi
+    Python 입문
+  etc...
 
 # List of content
 1. C++
