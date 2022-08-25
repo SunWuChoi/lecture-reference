@@ -1,5 +1,6 @@
 # lecture-reference
 Reference code with Korean comments for better understanding
+
 다양한 프로그래밍 언어의 교육을 위한 프로그램 및 해설 모음
 
 # Author
