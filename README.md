@@ -11,8 +11,8 @@ Reference code with Korean comments for better understanding
   * C++
 
 # List of content 
-+ Python 기초
-+ C++
++ Python
++ + C++
 + Java 기초
 + etc...
 
