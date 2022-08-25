@@ -15,7 +15,7 @@ Reference code with Korean comments for better understanding
   * Python 기초
   * Python 입문
 * Java
- * Java 기초
+  * Java 기초
 * C++
 
 # Update History
