@@ -12,9 +12,11 @@ Reference code with Korean comments for better understanding
 
 # List of content 
 + Python
-+ + C++
-+ Java 기초
-+ etc...
+ + Python 기초
+ + Python 입문
++ Java
+ + Java 기초
++ C++
 
 # Update History
 2022-08-25 Created repository
