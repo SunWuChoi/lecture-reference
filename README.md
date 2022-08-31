@@ -24,4 +24,4 @@ Reference code with Korean comments for better understanding
 # Update History
 2022-08-25 Created repository - Sunwu Choi
 
-2022-08-?? added members - Sunwu Choi
+2022-08-31 added Jiwon Jeong - Sunwu Choi
