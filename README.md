@@ -9,6 +9,7 @@ Reference code with Korean comments for better understanding
   * Python 예제
 * Jiwon Jeong - 정지원
   * HTML
+  * GUI
 
 * JongHyeok Baek - 백종혁
   * C++
