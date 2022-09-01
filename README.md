@@ -8,7 +8,7 @@ Reference code with Korean comments for better understanding
 # Author - 제작자
 
 * Sunwu Choi - 최선우
-    * C++ - In Progress
+    * Python GUI - In Progress
 
 
 * Jiwon Jeong - 정지원
