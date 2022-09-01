@@ -4,6 +4,7 @@ Reference code with Korean comments for better understanding
 
 다양한 프로그래밍 언어의 교육을 위한 실습 및 해설 모음
 
+
 # Author - 제작자
 
 * Sunwu Choi - 최선우
@@ -11,6 +12,19 @@ Reference code with Korean comments for better understanding
 
 
 * Jiwon Jeong - 정지원
+
+
+# Prerequisites - 필요 프로그램
+
+* C++
+    * [Visual Studio](https://visualstudio.microsoft.com/)
+* Python
+    * [PyCharm](https://www.jetbrains.com/pycharm/)
+* Java
+    * [Eclipse](https://www.eclipse.org/downloads/)
+* HTML
+    * [Visual Studio Code](https://code.visualstudio.com/)
+
 
 # List of content - 목차
 
@@ -41,17 +55,6 @@ Reference code with Korean comments for better understanding
 
 
 * 해킹과 보안
-
-# Recommended IDE
-
-* C++
-    * [Visual Studio](https://visualstudio.microsoft.com/)
-* Python
-    * [PyCharm](https://www.jetbrains.com/pycharm/)
-* Java
-    * [Eclipse](https://www.eclipse.org/downloads/)
-* HTML
-    * [Visual Studio Code](https://code.visualstudio.com/)
 
 # Update History - 업데이트 기록
 
